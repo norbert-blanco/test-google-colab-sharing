@@ -15,6 +15,8 @@ Python/Jupyter notebooks for the DACFE course, converted from the original MATLA
 
 Click the "Open in Colab" badge for the notebook you want. It opens directly in your browser with no installation needed.
 
+**Note:** When you open a notebook here in Colab, you may see a warning saying "This notebook was not authored by Google." This is a standard Colab security notice for any notebook loaded from GitHub, not a problem with the file. Click **Run anyway** to continue.
+
 To keep your own edits, use **File > Save a copy in Drive** (or **File > Save a copy in GitHub** if you have a GitHub account) right after opening — otherwise your changes won't be saved when you close the tab, since you're viewing the instructor's copy.
 
 ## Repository structure

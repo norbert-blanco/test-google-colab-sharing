@@ -9,7 +9,7 @@ Python/Jupyter notebooks for the DACFE course, converted from the original MATLA
 | `notebooks/DACFE_Ex201.ipynb` | Apparent engineering properties of a laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/test-google-colab-sharing/blob/main/notebooks/DACFE_Ex201.ipynb) |
 | `notebooks/DACFE_Ex401.ipynb` | Tsai-Wu failure criterion in a laminate | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/norbert-blanco/test-google-colab-sharing/blob/main/notebooks/DACFE_Ex401.ipynb) |
 
-**Before pushing:** replace `REPLACE_WITH_USERNAME` and `REPLACE_WITH_REPO` above with your actual GitHub username and repository name so the badges link correctly.
+## Before pushing:** replace `REPLACE_WITH_USERNAME` and `REPLACE_WITH_REPO` above with your actual GitHub username and repository name so the badges link correctly.
 
 ## For students
 
